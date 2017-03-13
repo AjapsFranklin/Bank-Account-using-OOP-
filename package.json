@@ -1,0 +1,22 @@
+{
+  "name": "oop-in-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "library.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/framky007/Andela-BootCamp-1.git"
+  },
+  "author": "Ajaps Franklin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/framky007/Andela-BootCamp-1/issues"
+  },
+  "homepage": "https://github.com/framky007/Andela-BootCamp-1#readme"
+}
